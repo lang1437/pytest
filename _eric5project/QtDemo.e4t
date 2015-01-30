@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-5.1.dtd">
+<!-- eric5 tasks file for project QtDemo -->
+<!-- Saved: 2014-04-29, 13:32:47 -->
+<Tasks version="5.1">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-13, 13:51:02</Created>
+    <Resource>
+      <Filename>QtDemo_hex2bin.py</Filename>
+      <Linenumber>65</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-13, 13:51:02</Created>
+    <Resource>
+      <Filename>QtDemo_hex2bin.py</Filename>
+      <Linenumber>72</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-13, 13:51:02</Created>
+    <Resource>
+      <Filename>QtDemo_hex2bin.py</Filename>
+      <Linenumber>161</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-13, 13:51:02</Created>
+    <Resource>
+      <Filename>QtDemo_hex2bin.py</Filename>
+      <Linenumber>170</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-13, 13:51:02</Created>
+    <Resource>
+      <Filename>QtDemo_hex2bin.py</Filename>
+      <Linenumber>181</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
